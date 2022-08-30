@@ -12,7 +12,7 @@
 
 - 📫 você me acha **murilo84824187@gmail.com**
 
-- 📄 fui fundado por amaurilio Nunes [https://www.linkedin.com/in/amaurilio-nuness](https://www.linkedin.com/in/amaurilio-nuness)
+- 📄 fui fundado por amaurilio Nunes [https://www.linkedin.com/in/amaurilio-nunes-653273235/)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
@@ -27,7 +27,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amaurilionunes&show_icons=true&locale=en&layout=compact" alt="amaurilionunes" /> </p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=amaurilionunes&show_icons=true&locale=en" alt="amaurilionunes" /> </p>
-
+<p><
 - 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
