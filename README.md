@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou Amaurilio Nunes</h1>
-<h2 align="center">apaixonado em tecnologia</h2>
+<h2 align="center">apaixonado por tecnologia</h2>
 <h3 align="center">O visual do GitHub esta em construção</h3
 
 <div>
