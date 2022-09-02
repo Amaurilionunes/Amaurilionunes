@@ -12,7 +12,7 @@
 </div>
 <br>
 
-- Atualmente estou estudando **desenvolvimento do site pela Alura**
+- Atualmente estou estudando **Programação, HTML, JAVASCRIPT E JAVA no curso Alura**
 
 - Cursos concluídos, ** logica de programação, GitHub,HTML5, front-End., Java script, java**
 
